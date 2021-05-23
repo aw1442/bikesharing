@@ -51,4 +51,3 @@ Two additional visualizations that can be suggested for future analysis include:
 2. Additional analysis based on type of bike such as electronic bikes or different types of builds of bikes with different gears to determine which type of bikes are popular and can be added based on cost/maintenance.
 
 [link to dashboard](https://public.tableau.com/profile/alex.wang6199#!/vizhome/DesMoinesBikeSharing/FinalStory?publish=yes)
-[link to dashboard](https://public.tableau.com/profile/alex.wang6199#!/vizhome/DesMoinesBikeSharing/FinalStory?publish=yes "link to dashboard")
